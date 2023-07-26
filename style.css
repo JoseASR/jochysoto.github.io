@@ -151,7 +151,7 @@ img {
     animation-delay: 1.8s;
 }
 #j {
-    animation-delay: 1.8s;
+    animation-delay: 2s;
 }
 @keyframes motion {
     from {
@@ -193,12 +193,7 @@ img {
     text-align: center;
 }
 
-.log {
-    display: flex;
-    justify-content: center;
-    margin-top: 2rem;
-    column-gap: 3rem;
-}
+
 
 .log img{
     font-size: 1.5rem;
