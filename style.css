@@ -7,11 +7,17 @@
 html {
     box-sizing: border-box;
     font-size: 62.5%;
+    line-height: 1.15; 
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
     margin: 0;
 }
+
+main {
+    display: block;
+  }
 
 *,
 *:before,
