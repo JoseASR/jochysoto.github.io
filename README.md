@@ -11,7 +11,6 @@ I can communicate effectively in both Spanish, English and Swidish, I keep learn
 ✅TypeScript.
 ✅Next.js.
 
-
 🔵 Contact Me
 
 I am open to new job opportunities. I'm always learning, I can work remotely in person or hybrid. If you have any questions, feel free to email me or contact me on any of the platforms below:
