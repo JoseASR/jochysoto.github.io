@@ -15,6 +15,6 @@ I can communicate effectively in both Spanish, English and Swidish, I keep learn
 
 I`m open to new job opportunities. Despite the fact that I have studied IT, i am always self-learning to keep up to date with new technologies. I can work remotely in person or hybrid. If you have any questions, feel free to email me or contact me on any of the following platforms:
 
-✅[Website](https://sotojose1.github.io/)
+✅[Website](https://sotojosedev.github.io/)
 ✅[LinkedIn](https://www.linkedin.com/in/jose-soto-5a43b774/)
-✅[GitHub](https://github.com/JoseASR/)
+✅[GitHub](https://github.com/sotojosedev)
